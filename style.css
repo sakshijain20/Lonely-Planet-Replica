@@ -171,3 +171,27 @@ html , body , h1{
 li:hover{
     color:gray;
 }
+
+.hr{
+    color: black;
+    margin-bottom: 32px;
+    margin-top: 24px;
+    margin-left: 52px;
+    margin-right: 52px;
+  }
+
+.footer-links{
+    display: flex;
+    color: black;
+    justify-content: space-around;
+}
+
+.footer-link{
+    color: black;
+}
+
+.footer-link > ul >li{
+    color: black;
+    text-align: left;
+}
+
