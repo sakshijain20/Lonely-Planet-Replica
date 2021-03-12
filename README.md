@@ -1,5 +1,5 @@
 # Lonely-Planet-Replica
-  This project is the made with intent to make the replica of Lonely Planet Wesite.
+  This project is the made with intent to make the replica of Lonely Planet Website.
   You can find the original website at:  https://www.lonelyplanet.com/
   
 # Tech-Stack
